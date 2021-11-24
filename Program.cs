@@ -10,7 +10,7 @@ namespace Course {
 
             Console.Write("Digite o numero de linhas da Matriz: ");
             int n = int.Parse(Console.ReadLine());
-             //qualquer coisa aqyu
+             //qualquer coisa aqyuvhhhghhghhghgjhhgj
             mat = new int[n, n];
             int neg = 0;
 
